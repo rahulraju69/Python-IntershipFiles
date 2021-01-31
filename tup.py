@@ -1,0 +1,8 @@
+tup1=(10,-5,'rahul',"raju",30.5)
+print("tuple:",tup1)
+print(tup1[1])
+print(tup1[1:])
+print(tup1[:3])
+print(tup1[-1])
+print(tup1[1:3])
+print(tup1[::-1])

@@ -1,0 +1,11 @@
+import math
+print(math.pi)
+print(math.e)
+print(math.sqrt(9))
+print(math.pow(2,3))
+print(math.degrees(30))
+print(math.radians(30))
+print(math.factorial(5))
+print(math.sin(30))
+print(math.cos(30))
+print(math.tan(30))
